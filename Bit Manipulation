@@ -1,0 +1,9 @@
+Bitwise Manipulation 
+
+- OR - use or mask to set the bit - 0000100, in this 1th place with be set 
+- AND - use and mask to unset the bit - 111011 , in this 3rd 0th bit is unset
+- XOR(same will be set to 0) - flip the bit - use making with 1 on the place we want to flip
+Example - 
+1 0
+1 1
+
